@@ -1,8 +1,3 @@
-Here is a **clean, professional, and attractive README.md** for your Pizza Hut SQL Project.
-You can directly paste this into your GitHub repository.
-
----
-
 # 🍕 Pizza Hut Sales Analysis – SQL Project
 
 This repository contains a complete SQL-based analysis of **Pizza Hut’s sales data**, designed to explore real-world business insights using advanced SQL techniques.
